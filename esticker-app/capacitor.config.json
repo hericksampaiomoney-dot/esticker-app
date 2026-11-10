@@ -1,9 +1,0 @@
-{
-  "appId": "com.esticker.app",
-  "appName": "Esticker",
-  "webDir": "www",
-  "backgroundColor": "#1a1030",
-  "android": {
-    "allowMixedContent": false
-  }
-}
